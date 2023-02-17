@@ -11,7 +11,7 @@ numberOfchildren){
 
   function calculateDogAge(puppyAge){
     let age = "Your doggie is " +puppyAge + " Years old in dog years"
-    return age
+    return 5* age
   }
     console.log(calculateDogAge( 7))
     console.log(calculateDogAge( 20))
